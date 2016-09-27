@@ -1,0 +1,7 @@
+$baseColor: #aa1138;
+
+p {
+  font-family: Arial;
+  color: $baseColor;
+  font-size: 3em;
+}
